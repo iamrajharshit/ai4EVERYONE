@@ -28,11 +28,13 @@ In supervised learning, the algorithm is trained on labeled data, where each exa
 The most commonly used type of machine learning, where the AI learns input-output mappings (A to B).
 - Examples include spam filtering, speech recognition, machine translation, and more.
 
-#### How LLMs works
+### How LLMs works
 
 - Training Data: LLMs are trained on massive datasets containing billions or even trillions of words. These datasets are collected from various sources on the internet and serve as the basis for teaching the model how language works and how words relate to each other.
 
 - Supervised Learning: During the training process, the LLM is presented with sequences of text as input and is tasked with predicting the next word in each sequence. This process is a form of supervised learning, where the input-output pairs (sequences of words and their subsequent words) serve as training examples.
+
+- Data Representation: Each sentence in the training data is turned into multiple input-output pairs (A to B data points). For example, given the sentence "my favorite drink is lychee bubble tea," the model learns to predict the next word after phrases like "my favorite drink" or "is lychee."
 
 - Pattern Recognition: As the LLM processes more and more text data during training, it learns to recognize patterns and correlations between words. By analyzing the context of each word within a sequence, the model can make probabilistic predictions about which word is likely to come next.
 
@@ -45,7 +47,7 @@ The most commonly used type of machine learning, where the AI learns input-outpu
 
  The idea of supervised learning has been around for many decades, but it's really taken off in the last few years. Why is this?
 <img src="img\week1\perf vs amt data.jpg">
-There's a picture I draw for them and I want to show you this picture now. You may be able to draw this picture for others that ask you the same question as well. Let's say on the horizontal axis, you plot the amount of data you have for a task. For speech recognition, this might be the amount of audio data and transcripts you have. In a lot of industries, the amount of data you have access to has really grown over the last couple of decades. Thanks to the rise of the Internet, the rise of computers. A lot of what used to be, say, pieces of paper are now instead recorded on a digital computer. We've just been getting more and more and more data.
+I want to show you this picture now. Let's say on the horizontal axis, you plot the amount of data you have for a task. For speech recognition, this might be the amount of audio data and transcripts you have. In a lot of industries, the amount of data you have access to has really grown over the last couple of decades. Thanks to the rise of the Internet, the rise of computers. A lot of what used to be, say, pieces of paper are now instead recorded on a digital computer. We've just been getting more and more and more data.
 
 - Traditional AI system performance get constant
 - With complex NN performance gets better!
