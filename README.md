@@ -1,7 +1,7 @@
 # ai4EVERYONE
 
 ## Content Index
-|Topic||
+|Topic|Description|
 |--|--|
 |[Introduction to AI](#-Introduction-to-AI)|Types of AI|
 
