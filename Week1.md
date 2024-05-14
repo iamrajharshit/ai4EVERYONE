@@ -4,10 +4,10 @@
 |Topic|Description|
 |--|--|
 |[Introduction](#Introduction)||
-|[Machine Learning](#-Machine-Learning)||
-|[What is Data?](#-What-is-Data?)||
-|[The terminology of AI](#-The-Terminology-of-AI)||
-|[What ML can and cannot do](#-What-ML-can-and-cannot-do)||
+|[Machine Learning](#Machine-Learning)||
+|[What is Data?](#What-is-Data?)||
+|[The terminology of AI](#The-Terminology-of-AI)||
+|[What ML can and cannot do](#What-ML-can-and-cannot-do)||
 
 ## Introduction
 ###  Artificial intelligence (AI), three key concepts shape its evolution and impact:
