@@ -1,5 +1,5 @@
 # ai4EVERYONE
-Course on Ai for everyone by Andrew Ng.
+My notes on Ai for Everyone by Andrew Ng.
 ## Content Index
 |Week|Description|
 |--|--|
