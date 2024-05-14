@@ -19,6 +19,8 @@
 - **Artificial General Intelligence (AGI):** AGI represents the aspirational goal of creating AI systems with human-like cognitive abilities, capable of performing any intellectual task a human can. Unlike ANI, AGI exhibits general intelligence, enabling learning, reasoning, and adaptation across various tasks and contexts.
 
 ## Machine Learning
+### Supervised Learning
+![download](https://github.com/iamrajharshit/ai4EVERYONE/assets/93223125/9f085e7b-de3d-4c09-bf11-63ca8a2fc2a0)
 
 
 
