@@ -20,7 +20,6 @@
 
 ## Machine Learning
 ### Supervised Learning
-![download](https://github.com/iamrajharshit/ai4EVERYONE/assets/93223125/9f085e7b-de3d-4c09-bf11-63ca8a2fc2a0)
 
 
 
