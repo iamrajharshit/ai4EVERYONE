@@ -30,17 +30,17 @@ The most commonly used type of machine learning, where the AI learns input-outpu
 
 ### How LLMs works
 
-- Training Data: LLMs are trained on massive datasets containing billions or even trillions of words. These datasets are collected from various sources on the internet and serve as the basis for teaching the model how language works and how words relate to each other.
+- **Training Data:** LLMs are trained on massive datasets containing billions or even trillions of words. These datasets are collected from various sources on the internet and serve as the basis for teaching the model how language works and how words relate to each other.
 
-- Supervised Learning: During the training process, the LLM is presented with sequences of text as input and is tasked with predicting the next word in each sequence. This process is a form of supervised learning, where the input-output pairs (sequences of words and their subsequent words) serve as training examples.
+- **Supervised Learning:** During the training process, the LLM is presented with sequences of text as input and is tasked with predicting the next word in each sequence. This process is a form of supervised learning, where the input-output pairs (sequences of words and their subsequent words) serve as training examples.
 
-- Data Representation: Each sentence in the training data is turned into multiple input-output pairs (A to B data points). For example, given the sentence "my favorite drink is lychee bubble tea," the model learns to predict the next word after phrases like "my favorite drink" or "is lychee."
+- **Data Representation:** Each sentence in the training data is turned into multiple input-output pairs (A to B data points). For example, given the sentence "my favorite drink is lychee bubble tea," the model learns to predict the next word after phrases like "my favorite drink" or "is lychee."
 
-- Pattern Recognition: As the LLM processes more and more text data during training, it learns to recognize patterns and correlations between words. By analyzing the context of each word within a sequence, the model can make probabilistic predictions about which word is likely to come next.
+- **Pattern Recognition:** As the LLM processes more and more text data during training, it learns to recognize patterns and correlations between words. By analyzing the context of each word within a sequence, the model can make probabilistic predictions about which word is likely to come next.
 
-- Generative Capability: Once trained, the LLM can generate new text by providing it with an initial prompt or seed text. The model uses its learned knowledge about language and word relationships to predict and generate the next words in the sequence, effectively continuing the text based on the input it receives.
+- **Generative Capability:** Once trained, the LLM can generate new text by providing it with an initial prompt or seed text. The model uses its learned knowledge about language and word relationships to predict and generate the next words in the sequence, effectively continuing the text based on the input it receives.
 
-- Fine-tuning and Specialization: LLMs can be fine-tuned on specific tasks or domains by further training them on smaller, domain-specific datasets. This process helps tailor the model's language generation capabilities to particular applications or contexts, making it more effective for tasks like summarization, translation, or dialogue generation.
+- **Fine-tuning and Specialization:** LLMs can be fine-tuned on specific tasks or domains by further training them on smaller, domain-specific datasets. This process helps tailor the model's language generation capabilities to particular applications or contexts, making it more effective for tasks like summarization, translation, or dialogue generation.
 
 <img src="img\week1\llms.jpg">
 
