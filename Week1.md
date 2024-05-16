@@ -5,8 +5,8 @@
 |--|--|
 |[Introduction](#Introduction)||
 |[Machine Learning](#Machine-Learning)||
-|[What is Data?](#What-is-Data?)||
-|[The terminology of AI](#The-Terminology-of-AI)||
+|[What is Data?](#What-is-Data)||
+|[The Terminology of AI](#The-Terminology-of-AI)||
 |[What ML can and cannot do](#What-ML-can-and-cannot-do)||
 
 ## Introduction
@@ -70,11 +70,11 @@ Deep learning is a subset of machine learning that uses neural networks with man
 
 
 
-## What is Data?
+## What is Data
 
 
 
-## The terminology of AI
+## The Terminology of AI
 
 
 ## What ML can and cannot do
