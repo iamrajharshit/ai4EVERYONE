@@ -89,17 +89,17 @@ Deep learning is a subset of machine learning that uses neural networks with man
 <img src="img\week1\acquiring data.jpg"><br>
 The different ways to acquire data for machine learning:
 
-- Manual Labeling:
+- **Manual Labeling:**
 Manually label data points (e.g., identifying cats in pictures).
 Time-consuming but ensures high-quality data (A and B are clear).
-- Observing User/Machine Behavior:
+- **Observing User/Machine Behavior:**
 Collect data from user interactions (e.g., purchases on an e-commerce site).
 Analyze user behavior (A) to predict outcomes (B) (e.g., product purchase).
 Similar approach can be used for machine behavior (e.g., sensor data from a factory machine to predict failures).
-- Downloading Public Datasets:
+- **Downloading Public Datasets:**
 Wide variety of datasets available online (image recognition, self-driving cars, etc.).
 Free and easy to access, but consider licensing and copyright restrictions.
-- Partnering with Data Providers:
+- **Partnering with Data Providers:**
 Collaborate with companies that have relevant data (e.g., factory machine data).
 Leverage existing data collections for your machine learning project.
 
