@@ -123,7 +123,7 @@ common misuses of data for machine learning
 
 ### Data is Messy
 Messy data, also referred to as dirty data, is a common challenge in machine learning. It refers to data that is inaccurate, incomplete, inconsistent, or improperly formatted. This can significantly impact the performance of your AI system, leading to inaccurate predictions and unreliable results.
-<img src="img\week1\mis use.jpg"><br>
+<img src="img\week1\messy data.jpg"><br>
 
 **Types of Messy Data:**
 
