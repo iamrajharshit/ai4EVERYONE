@@ -23,8 +23,7 @@ Machine learning is a subset of artificial intelligence (AI) that focuses on the
 ### Supervised Learning
 
 In supervised learning, the algorithm is trained on labeled data, where each example in the dataset is associated with a corresponding target label. The goal is to learn a mapping from input features to output labels.
-<br><img src="img\week1\ml examples.jpg">
-<br>
+<br><img src="img\week1\ml examples.jpg"><br>
 The most commonly used type of machine learning, where the AI learns input-output mappings (A to B).
 - Examples include spam filtering, speech recognition, machine translation, and more.
 
@@ -41,12 +40,10 @@ The most commonly used type of machine learning, where the AI learns input-outpu
 - **Generative Capability:** Once trained, the LLM can generate new text by providing it with an initial prompt or seed text. The model uses its learned knowledge about language and word relationships to predict and generate the next words in the sequence, effectively continuing the text based on the input it receives.
 
 - **Fine-tuning and Specialization:** LLMs can be fine-tuned on specific tasks or domains by further training them on smaller, domain-specific datasets. This process helps tailor the model's language generation capabilities to particular applications or contexts, making it more effective for tasks like summarization, translation, or dialogue generation.
-<br>
-<img src="img\week1\llms.jpg">
-<br>
- The idea of supervised learning has been around for many decades, but it's really taken off in the last few years. Why is this?
-<br>
-<img src="img\week1\perf vs amt data.jpg"><br>
+<br><img src="img\week1\llms.jpg"><br>
+The idea of supervised learning has been around for many decades, but it's really taken off in the last few years. Why is this?
+<br><img src="img\week1\perf vs amt data.jpg"><br>
+
 I want to show you this picture now. Let's say on the horizontal axis, you plot the amount of data you have for a task. For speech recognition, this might be the amount of audio data and transcripts you have. In a lot of industries, the amount of data you have access to has really grown over the last couple of decades. Thanks to the rise of the Internet, the rise of computers. A lot of what used to be, say, pieces of paper are now instead recorded on a digital computer. We've just been getting more and more and more data.
 
 - Traditional AI system performance get constant
@@ -71,8 +68,7 @@ Deep learning is a subset of machine learning that uses neural networks with man
 
 
 ## What is Data
-<br>
-<img src="img\week1\data.jpg"><br>
+<br><img src="img\week1\data.jpg"><br>
 - **Data set:** A collection of data organized in a table format, similar to an Excel spreadsheet.
 - **Machine learning input (A):** The features or attributes used to train the model.
 - **Machine learning output (B):** The target variable the model is trying to predict.
@@ -85,8 +81,7 @@ Deep learning is a subset of machine learning that uses neural networks with man
 **Trivia:** *Cats are popular in machine learning! It seems to have started with a project where a Google AI system learned to identify cats by watching YouTube videos. This led to a funny and enduring tradition of using cats as examples when explaining machine learning concepts.*  
 
 ### Acquiring Data
-<br>
-<img src="img\week1\acquiring data.jpg"><br>
+<br><img src="img\week1\acquiring data.jpg"><br>
 The different ways to acquire data for machine learning:
 
 - **Manual Labeling:**
@@ -105,8 +100,7 @@ Leverage existing data collections for your machine learning project.
 
 ### Use-Mis use of Data
 Common misuses of data for machine learning
-<br>
-<img src="img\week1\mis use.jpg"><br>
+<br><img src="img\week1\mis use.jpg"><br>
 
 **Misuse 1: Waiting for Perfect Data**
 
@@ -125,8 +119,7 @@ Common misuses of data for machine learning
 
 ### Data is Messy
 Messy data, also referred to as dirty data, is a common challenge in machine learning. It refers to data that is inaccurate, incomplete, inconsistent, or improperly formatted. This can significantly impact the performance of your AI system, leading to inaccurate predictions and unreliable results.
-<br>
-<img src="img\week1\messy data.jpg"><br>
+<br><img src="img\week1\messy data.jpg"><br>
 
 **Types of Messy Data:**
 
