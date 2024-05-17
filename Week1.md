@@ -73,11 +73,11 @@ Deep learning is a subset of machine learning that uses neural networks with man
 ## What is Data
 
 <img src="img\week1\data.jpg"><br>
-- Data set: A collection of data organized in a table format, similar to an Excel spreadsheet.
-- Machine learning input (A): The features or attributes used to train the model.
-- Machine learning output (B): The target variable the model is trying to predict.
-- Defining A and B: Depends on the specific business use case.
-- Examples:
+- **Data set:** A collection of data organized in a table format, similar to an Excel spreadsheet.
+- **Machine learning input (A):** The features or attributes used to train the model.
+- **Machine learning output (B):** The target variable the model is trying to predict.
+- **Defining A and B:** Depends on the specific business use case.
+- **Examples:**
     - Real estate pricing: A - house size and number of bedrooms, B - house price.
     - House affordability: A - budget, B - affordable house size.
     - Cat image recognition: A - image, B - label (cat or not).
