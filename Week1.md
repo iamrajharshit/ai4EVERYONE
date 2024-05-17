@@ -113,6 +113,7 @@ common misuses of data for machine learning
 - This is wrong! Early collaboration between IT and AI teams is crucial.
 - AI teams can analyze initial data and suggest improvements to data collection (e.g., frequency, type).
 - This iterative approach helps refine data collection and build better AI systems.
+
 **Misuse 2: Assuming More Data Equals More Value**
 
 - Simply having a lot of data doesn't guarantee success with AI.
