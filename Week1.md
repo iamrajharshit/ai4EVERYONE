@@ -1,7 +1,7 @@
 # Week 1 (What is AI?)
 
 ## Content Index
-|Topic|Description|
+|Topics|Description|
 |--|--|
 |[Introduction](#Introduction)||
 |[Machine Learning](#Machine-Learning)||
