@@ -103,7 +103,52 @@ Free and easy to access, but consider licensing and copyright restrictions.
 Collaborate with companies that have relevant data (e.g., factory machine data).
 Leverage existing data collections for your machine learning project.
 
+### Use-Mis use of Data
+common misuses of data for machine learning
+<img src="img\week1\mis use.jpg"><br>
 
+- **Misuse 1: Waiting for Perfect Data**
+
+- Some companies believe they need a massive, perfect dataset before using AI.
+- This is wrong! Early collaboration between IT and AI teams is crucial.
+- AI teams can analyze initial data and suggest improvements to data collection (e.g., frequency, type).
+- This iterative approach helps refine data collection and build better AI systems.
+- **Misuse 2: Assuming More Data Equals More Value**
+
+- Simply having a lot of data doesn't guarantee success with AI.
+- Don't throw data at an AI team and expect magic.
+- The quality and relevance of the data matter more than just quantity.
+- Similarly, acquiring data without a plan for its use can be wasteful.
+- Focus on getting the right data, not just the most data. AI teams can help identify the most valuable data for your specific needs.
+
+### Data is Messy
+Messy data, also referred to as dirty data, is a common challenge in machine learning. It refers to data that is inaccurate, incomplete, inconsistent, or improperly formatted. This can significantly impact the performance of your AI system, leading to inaccurate predictions and unreliable results.
+<img src="img\week1\mis use.jpg"><br>
+
+**Types of Messy Data:**
+
+- **Incorrect labels:** This occurs when data points are labeled inaccurately. For example, a house price listed as $0.001 is likely a typo.
+- **Missing values:** Data points might be missing entirely, leaving gaps in your dataset. This could be due to faulty sensors, human error during data entry, or incomplete records.
+- **Inconsistent formatting:** Data might be presented in different formats within the same dataset. For instance, house sizes could be listed in square feet and square meters without standardization.
+- **Outliers:** Extreme values that deviate significantly from the rest of the data can distort the overall picture. Imagine a dataset of house prices with one mansion listed for a billion dollars, skewing the average price.
+- **Duplicates:** The same data point might be present multiple times in your dataset, inflating its importance and potentially leading to biased results.
+
+**Impacts of Messy Data:**
+
+- **Reduced accuracy:** Training an AI system on messy data leads to inaccurate learning and unreliable predictions. For example, a system trained on incorrect house prices wouldn't be able to accurately estimate future home values.
+- **Biased results:** Inconsistent data or missing values can lead to biased models that favor certain outcomes. Imagine a loan approval system trained on data with fewer entries for minorities, potentially leading to biased decisions.
+- **Wasted resources:** Time and effort spent training a model on low-quality data is wasted. Cleaning the data beforehand can save resources and improve the overall efficiency of your project.
+Dealing with Messy Data:
+
+Techniques to address messy data:
+
+- **Data Cleaning:** This involves identifying and correcting errors, filling in missing values, and standardizing formats. This can be done manually or through automated tools.
+- **Data Validation:** Establishing data quality checks and validation rules can help prevent messy data from entering your system in the first place.
+Data Imputation: Techniques like averaging or using statistical methods can fill in missing values with estimations.
+- **Outlier Detection and Handling:** Identifying and potentially removing outliers or handling them through specific techniques can prevent them from distorting the results.
+- **Data Transformation:** Transforming data into a format suitable for your AI model might involve scaling, normalization, or feature engineering.
+
+*Data quality is paramount for successful AI projects. By understanding the types of messy data and the techniques to handle them, you can ensure your AI system is trained on clean, reliable information, leading to accurate and valuable results.*
 
 ## The Terminology of AI
 
