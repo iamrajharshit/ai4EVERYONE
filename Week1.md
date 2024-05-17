@@ -107,13 +107,13 @@ Leverage existing data collections for your machine learning project.
 common misuses of data for machine learning
 <img src="img\week1\mis use.jpg"><br>
 
-- **Misuse 1: Waiting for Perfect Data**
+**Misuse 1: Waiting for Perfect Data**
 
 - Some companies believe they need a massive, perfect dataset before using AI.
 - This is wrong! Early collaboration between IT and AI teams is crucial.
 - AI teams can analyze initial data and suggest improvements to data collection (e.g., frequency, type).
 - This iterative approach helps refine data collection and build better AI systems.
-- **Misuse 2: Assuming More Data Equals More Value**
+**Misuse 2: Assuming More Data Equals More Value**
 
 - Simply having a lot of data doesn't guarantee success with AI.
 - Don't throw data at an AI team and expect magic.
