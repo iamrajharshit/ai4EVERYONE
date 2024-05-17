@@ -82,6 +82,8 @@ Deep learning is a subset of machine learning that uses neural networks with man
     - House affordability: A - budget, B - affordable house size.
     - Cat image recognition: A - image, B - label (cat or not).
 
+**Trivia:** *Cats are popular in machine learning! It seems to have started with a project where a Google AI system learned to identify cats by watching YouTube videos. This led to a funny and enduring tradition of using cats as examples when explaining machine learning concepts.*  
+
 ## The Terminology of AI
 
 
