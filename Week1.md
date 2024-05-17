@@ -84,6 +84,42 @@ Deep learning is a subset of machine learning that uses neural networks with man
 
 **Trivia:** *Cats are popular in machine learning! It seems to have started with a project where a Google AI system learned to identify cats by watching YouTube videos. This led to a funny and enduring tradition of using cats as examples when explaining machine learning concepts.*  
 
+### Acquiring Data
+
+<img src="img\week1\acquiring data.jpg"><br>
+The different ways to acquire data for machine learning:
+
+1. Manual Labeling:
+
+Manually label data points (e.g., identifying cats in pictures).
+Time-consuming but ensures high-quality data (A and B are clear).
+2. Observing User/Machine Behavior:
+
+Collect data from user interactions (e.g., purchases on an e-commerce site).
+Analyze user behavior (A) to predict outcomes (B) (e.g., product purchase).
+Similar approach can be used for machine behavior (e.g., sensor data from a factory machine to predict failures).
+3. Downloading Public Datasets:
+
+Wide variety of datasets available online (image recognition, self-driving cars, etc.).
+Free and easy to access, but consider licensing and copyright restrictions.
+4. Partnering with Data Providers:
+
+Collaborate with companies that have relevant data (e.g., factory machine data).
+Leverage existing data collections for your machine learning project.
+
+pen_spark
+
+
+
+tune
+
+share
+
+
+more_vert
+
+
+
 ## The Terminology of AI
 
 
