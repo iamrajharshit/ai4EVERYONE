@@ -41,7 +41,7 @@ The most commonly used type of machine learning, where the AI learns input-outpu
 
 - **Fine-tuning and Specialization:** LLMs can be fine-tuned on specific tasks or domains by further training them on smaller, domain-specific datasets. This process helps tailor the model's language generation capabilities to particular applications or contexts, making it more effective for tasks like summarization, translation, or dialogue generation.
 <br><img src="img\week1\llms.jpg"><br>
-The idea of supervised learning has been around for many decades, but it's really taken off in the last few years. Why is this?
+#### The idea of supervised learning has been around for many decades, but it's really taken off in the last few years. Why is this?
 <br><img src="img\week1\perf vs amt data.jpg"><br>
 
 I want to show you this picture now. Let's say on the horizontal axis, you plot the amount of data you have for a task. For speech recognition, this might be the amount of audio data and transcripts you have. In a lot of industries, the amount of data you have access to has really grown over the last couple of decades. Thanks to the rise of the Internet, the rise of computers. A lot of what used to be, say, pieces of paper are now instead recorded on a digital computer. We've just been getting more and more and more data.
